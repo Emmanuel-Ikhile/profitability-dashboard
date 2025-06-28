@@ -1,4 +1,4 @@
-# 📊 Product Profitability & Inventory Insights Dashboard
+# Product Profitability & Inventory Insights Dashboard
 
 This project is a dynamic Power BI dashboard built to uncover product-level profitability, sales trends, and inventory insights using a global dataset of orders, customers, and products.
 
@@ -7,7 +7,7 @@ This project is a dynamic Power BI dashboard built to uncover product-level prof
 
 ---
 
-## 🔑 Key Metrics & KPIs
+## Key Metrics & KPIs
 
 - **Total Sales**: $10.03M  
 - **Total Profit**: $3.00M  
@@ -16,7 +16,7 @@ This project is a dynamic Power BI dashboard built to uncover product-level prof
 
 ---
 
-## 📈 Trend Analysis
+## Trend Analysis
 
 A quarterly time-series breakdown revealed key seasonal patterns:
 
@@ -29,7 +29,7 @@ A quarterly time-series breakdown revealed key seasonal patterns:
 
 ---
 
-## 🚗 Product Line Insights
+## Product Line Insights
 
 - **Top Sellers**:
   - Classic Cars – $3.9M  
@@ -41,11 +41,11 @@ A quarterly time-series breakdown revealed key seasonal patterns:
   - Vintage Cars – **38%**  
   - Ships – **21.69%** (lowest)
 
-> 🔍 **Insight**: The best-selling products were not the most profitable — highlighting the need for a profit-led inventory strategy.
+> **Insight**: The best-selling products were not the most profitable — highlighting the need for a profit-led inventory strategy.
 
 ---
 
-## 🌍 Geographic Performance
+## Geographic Performance
 
 - The **United States** led with $3.6M in sales  
 - **Spain** and **France** followed  
@@ -53,7 +53,7 @@ A quarterly time-series breakdown revealed key seasonal patterns:
 
 ---
 
-## 🧩 Category Distribution
+## Category Distribution
 
 A pie chart revealed:
 
@@ -62,7 +62,7 @@ A pie chart revealed:
 
 ---
 
-## 💡 Skills & Techniques Applied
+## Skills & Techniques Applied
 
 - Power Query for data cleaning  
 - DAX for calculated columns and measures  
@@ -71,26 +71,22 @@ A pie chart revealed:
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
-> *(Add a screenshot of the Power BI dashboard here)*  
-> Example:
-> ![Dashboard Screenshot](images/dashboard-preview.png)
+> ![Dashboard Screenshot](images/dashboard-preview.PNG)
 
 ---
 
 ## 🔗 Project Post on LinkedIn
 
-[📎 View on LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME/posts/PROJECT-LINK)  
-_(Replace this with your actual post link)_
+[📎 View on LinkedIn]([https://www.linkedin.com/in/YOUR-USERNAME/posts/PROJECT-LINK](https://www.linkedin.com/posts/emmanuel-ikhile-2436b0258_excited-to-share-my-latest-power-bi-project-activity-7343659360968921089-z0c3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD92hFMBD9bAuYz6-_4Paw92VdSmtwCbKGM))  
 
 ---
 
 ## 📁 Files
 
-- `Product_Profitability_Insights.pbix` – Power BI dashboard file  
+- `Product Profitability Dashboard.pbix` – Power BI dashboard file  
 - `images/` – Dashboard screenshots  
-- `dataset.xlsx` – Cleaned dataset (optional/shareable)
 
 ---
 
